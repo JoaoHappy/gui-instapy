@@ -7,7 +7,9 @@
 ### Instalação de dependências
 
 <p align="justify">pip install instapy</p>
-<p align="justify">pip install PyQt5</p>
+<p align="justify">pip install PyQt5</p> 
+
+* askaskl
 
 ### Execução do bot
 
